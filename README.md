@@ -9,6 +9,7 @@
 235. Primary and secondary routes
 237. Material UI
 238. Setup Material UI in Vite
+239. LoginPage - Design without Layout
 
 
 ## Tests
