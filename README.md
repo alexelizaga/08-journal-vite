@@ -10,6 +10,7 @@
 237. Material UI
 238. Setup Material UI in Vite
 239. LoginPage - Design without Layout
+240. LoginPage - Design part 2
 
 
 ## Tests
