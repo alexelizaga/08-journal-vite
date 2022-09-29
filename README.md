@@ -6,6 +6,7 @@
 ## Commits
 
 234. Start proyect
+235. Primary and secondary routes
 
 
 ## Tests
