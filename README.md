@@ -15,6 +15,7 @@
 242. RegisterPage - Design
 243. JournalLayout and JournalPage
 244. Navbar
+245. Sidebar
 
 
 ## Tests
