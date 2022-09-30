@@ -12,6 +12,7 @@
 239. LoginPage - Design without Layout
 240. LoginPage - Design part 2
 241. AuthLayout
+242. RegisterPage - Design
 
 
 ## Tests
