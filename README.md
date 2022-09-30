@@ -13,6 +13,7 @@
 240. LoginPage - Design part 2
 241. AuthLayout
 242. RegisterPage - Design
+243. JournalLayout and JournalPage
 
 
 ## Tests
