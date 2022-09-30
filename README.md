@@ -17,6 +17,7 @@
 244. Navbar
 245. Sidebar
 246. NothingSelectedView
+247. NoteView
 
 
 ## Tests
