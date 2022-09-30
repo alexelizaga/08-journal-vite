@@ -18,6 +18,7 @@
 245. Sidebar
 246. NothingSelectedView
 247. NoteView
+248. ImageList
 
 
 ## Tests
