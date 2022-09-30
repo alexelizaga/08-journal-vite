@@ -16,6 +16,7 @@
 243. JournalLayout and JournalPage
 244. Navbar
 245. Sidebar
+246. NothingSelectedView
 
 
 ## Tests
