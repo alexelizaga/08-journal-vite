@@ -14,6 +14,7 @@
 241. AuthLayout
 242. RegisterPage - Design
 243. JournalLayout and JournalPage
+244. Navbar
 
 
 ## Tests
